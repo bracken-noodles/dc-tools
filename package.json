@@ -1,9 +1,8 @@
 {
-  "name": "@dc/tools",
+  "name": "@bracken/dc-tools",
   "version": "0.2.3",
   "main": "lib/index.js",
   "module": "lib/index.js",
-  "repository": "git@gitlab.decobim.com:Oboo/ops-tools.git",
   "author": "Oboo Chin <oboochin@gmail.com>",
   "license": "MIT",
   "scripts": {
